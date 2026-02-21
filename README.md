@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Atulya Das Nayak</h1>
 
 
