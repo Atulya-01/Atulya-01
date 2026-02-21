@@ -64,3 +64,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
+
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" style="border-radius:50%; background:white; padding:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" style="border-radius:50%; background:white; padding:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" style="border-radius:50%; background:white; padding:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90" style="border-radius:50%; background:white; padding:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90" style="border-radius:50%; background:white; padding:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</p>
